@@ -1,0 +1,8 @@
+127.0.0.1 - - [18/Jan/2022:22:21:51 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [18/Jan/2022:22:22:19 -0300] "GET /gerenciador/bem-vindo.html HTTP/1.1" 200 69
+127.0.0.1 - - [18/Jan/2022:22:25:19 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [18/Jan/2022:22:25:46 -0300] "GET /gerenciador/helloWord HTTP/1.1" 404 788
+0:0:0:0:0:0:0:1 - - [18/Jan/2022:22:27:22 -0300] "GET /gerenciador/HelloWordServlet HTTP/1.1" 404 795
+0:0:0:0:0:0:0:1 - - [18/Jan/2022:22:27:26 -0300] "GET /gerenciador/helloWord HTTP/1.1" 404 788
+127.0.0.1 - - [18/Jan/2022:22:29:17 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [18/Jan/2022:22:29:26 -0300] "GET /gerenciador/helloWord HTTP/1.1" 404 788
